@@ -24,14 +24,14 @@ const data = {
         ]
     },
     jumbo: {
-        text: `Hi, I'm Louis. I design & build websites.`,
+        text: `Hi, I'm Verry. I design & build websites.`,
         buttonText: `Yes, I'm available for hire.`,
         buttonLink: `#contact`,
         scrollDownLink: '#about',
         img: `img/desk4.jpg`
     },
     about: {
-        img: `img/me.jpg`,
+        img: `img/foto.jpg`,
         aboutText: `Passionate programmer pursuing a career path in web/app development and mixed reality technologies. I bring a strong background in UX and attention to detail that will increase engagement between your company and its target audience.`
     },
     portfolio: {
