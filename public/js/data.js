@@ -138,7 +138,7 @@ const data = {
         }
     ]},
     contact: {
-        email: `louis.iaeger@yahoo.com`
+        email: `verrygustiandrea@gmail.com`
     },
     social: [
         {
@@ -150,15 +150,15 @@ const data = {
         },
         {
             name: 'github',
-            shortlink: 'github.com/louisiaegerv/',
-            fullLink: 'https://github.com/louisiaegerv/',
+            shortlink: 'github.com/VerryGustiAndrea',
+            fullLink: 'https://github.com/VerryGustiAndrea',
             img: '',
             fontAwesome: true
         },
         {
             name:       'linkedin',
-            shortlink:  'linkedin.com/in/louislinkedin',
-            fullLink:   'https://www.linkedin.com/in/louislinkedin',
+            shortlink:  'linkedin.com/in/verry-andrea-a4a539191/',
+            fullLink:   'https://www.linkedin.com/in/verry-andrea-a4a539191/',
             img:        '',
             fontAwesome: true
         },
