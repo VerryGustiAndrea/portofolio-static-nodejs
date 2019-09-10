@@ -1,7 +1,7 @@
 const data = {
     nav: {
         title: {
-            text: `Verry Gusti Andrea`,
+            text: `Curriculum Vitae`,
             link: `#app`
         },
         navLinks: [
